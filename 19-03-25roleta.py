@@ -71,3 +71,4 @@ def jogar_roleta():
 if __name__ == "__main__":
     jogar_roleta()
  
+ 
