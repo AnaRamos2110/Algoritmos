@@ -2,9 +2,12 @@ import pyautogui
 import time
 import pyperclip
 
+
+
 pyautogui.hotkey('win', 'r')
 pyautogui.write('chrome')
 pyautogui.press('enter')
+
 
 time.sleep(2)
 
